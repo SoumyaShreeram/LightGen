@@ -22,4 +22,4 @@
     contains the class to generate lightcones for gas particles, stellar particles, galaxies, and halos
 
 6. `main.py` 
-    example script showing how the run the code
+    example script showing how to the run the code

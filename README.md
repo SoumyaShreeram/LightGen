@@ -1,7 +1,7 @@
 ### Installation
 The package can be installed with:
 
-`pip install LightGen`
+`pip install light-gen`
 
 
 You will need the following dependencies:
