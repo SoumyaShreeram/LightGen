@@ -26,7 +26,7 @@ pandas
 
 
 ### Usage
-Using the code to generate lightcones from IllustrisTNG simulations. This code is easily adaptable to other N-body simulations too. For instructions see the example notebooks provided in the `notebooks` folder and also see the template script.
+Using the code to generate lightcones from IllustrisTNG simulations. This code is easily adaptable to other N-body simulations too. For instructions see the example notebooks provided in the `examples` folder and also see the template script.
 The code needs you to point to the `sim_data_dir` folder, where all the snapshots and FoF and Subfind group catalogues are provided (based on hdf5). You can download them from the official TNG website [here](https://www.tng-project.org/data/). The `sim_data_dir` directory structure must be as follows.
 
 ```
