@@ -1,4 +1,7 @@
+This package constructs observer-based lightcones from [IllustrisTNG](https://www.tng-project.org/data/).
+
 ### Installation
+
 The package can be installed with:
 
 `pip install light-gen`
