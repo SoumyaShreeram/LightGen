@@ -1,4 +1,4 @@
-This package constructs observer-based lightcones from [IllustrisTNG](https://www.tng-project.org/data/).
+This package constructs observer-based lightcones from [IllustrisTNG](https://www.tng-project.org/).
 
 See related paper introducing the outputs of this code [here](https://www.aanda.org/articles/aa/abs/2025/05/aa52271-24/aa52271-24.html).
 
@@ -69,7 +69,7 @@ Where each `snapdir_XX` and `group_XX` refers to a single TNG snapshot, and each
 The follows notebooks run you through the main concepts and implementations of this code:
 1. `01_remapping_IllustrisTNG_boxes`: introduced the remapping of cuboids to construct lightcones.
 2. `02_get_lightcone_geometry`: implements the `get_geometry.py` to get the lightcone opening angles for an given observer at the edges of the lightcone.
-3. `03_get_lightcone_and_central_satellities`: generates lightcone shell files for individual subshells (subhalos, halos, bhs, etc) and also classified subhalos into centrals and satellites
+3. `03_get_lightcone_and_central_satellities`: generates lightcone shell files for individual subshells (subhalos, halos, bhs, etc) and also classifies subhalos into centrals and satellites
 4. `04_applying_rotations_to_lightcone`: tutorial on rotations in 3D and how you can apply it to your lightcone to center the observer on the y-z plane (x-axis is Line of Sight)
 
 Script: `main.py`
