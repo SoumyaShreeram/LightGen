@@ -1,5 +1,7 @@
 This package constructs observer-based lightcones from [IllustrisTNG](https://www.tng-project.org/data/).
 
+See related paper introducing the outputs of this code [here](https://www.aanda.org/articles/aa/abs/2025/05/aa52271-24/aa52271-24.html).
+
 ### Installation
 
 The package can be installed with:
